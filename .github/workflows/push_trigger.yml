@@ -1,4 +1,4 @@
-name: Manual push trigger
+name: sample Manual push trigger
 
 on: workflow_dispatch
   
